@@ -1,0 +1,8 @@
+[Unit]
+Description=Docker volume driver for volumes on shared mounts
+
+[Socket]
+ListenStream=/run/docker/plugins/sharevol.sock
+
+[Install]
+WantedBy=sockets.target

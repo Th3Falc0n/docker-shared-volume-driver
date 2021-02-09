@@ -1,4 +1,4 @@
-module shared-volume-plugin
+module github.com/th3falc0n/docker-shared-volume-driver
 
 go 1.11
 

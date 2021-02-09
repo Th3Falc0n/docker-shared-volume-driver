@@ -8,8 +8,6 @@ import (
 	"os"
 	"os/user"
 	"strconv"
-	//"os/user"
-	//"strconv"
 )
 
 type SharedMountVolumeDriver struct {
