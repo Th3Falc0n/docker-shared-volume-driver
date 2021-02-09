@@ -1,6 +1,6 @@
 module shared-volume-plugin
 
-go 1.15
+go 1.11
 
 require (
 	github.com/Microsoft/go-winio v0.4.16 // indirect
